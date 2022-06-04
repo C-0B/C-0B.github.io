@@ -1,0 +1,27 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.center{
+    display: grid;
+    place-items: center;
+}
+
+.webCard{
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: red;
+    width: 60%;
+    padding: 1rem;
+}
+
+.webCard .card-header{
+}
+
+.webCard .card-body{
+    color: blue;
+}
+
+.webCard .card-footer{
+
+}
