@@ -1,5 +1,5 @@
 * {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Exo','Times New Roman', sans-serif;
     display: border-box;
     box-sizing: border-box;
 }
@@ -31,7 +31,7 @@ nav ul{
 nav li {
     display: inline-block;
     margin-left: 0px;
-    padding: 5px;
+    padding: 1px;
 }
 
 nav a{
@@ -51,7 +51,8 @@ nav a:hover{
 }
 
 nav a:active{
-    background-color: red;
+    color: black;
+    background-color: rgb(233, 233, 233);
 }
 
 body{
@@ -67,7 +68,7 @@ body{
     border: 2px solid black;
     border-radius: 0.5rem;
     background-color: red;
-    padding: 1rem;
+    padding: 50px;
     width: 100%;
 }
 
